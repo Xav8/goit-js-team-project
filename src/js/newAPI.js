@@ -1,7 +1,7 @@
 export default class newAPIQuery {
     #keyWord = '';
     constructor(){
-        this.API_KEY = '-';
+        this.API_KEY = 'kKo68Zl5Ocun4s8yoyGjuClavE8LAUw8';
         this.ROOT_URL = 'https://app.ticketmaster.com/discovery/v2/';
         this.EvID = 'Z7r9jZ1AdaeGo';
 
